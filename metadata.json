@@ -1,0 +1,6 @@
+{
+  "name": "+100 Guias Visuais de Enxerto de Frutíferas",
+  "description": "Aprenda a fazer enxertos em frutíferas com referências visuais simples para consultar cada corte, encaixe, alinhamento e amarração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
